@@ -1,4 +1,4 @@
-![LaBNetworkPlugin](http://www.liveatblocks.eu/template/images/main-head.png)
+![LaBNetworkPlugin](http://www.liveatblocks.eu/v2/resources/labnetwork/logo-labnetwork.png)
 ***
 
 
